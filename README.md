@@ -1,6 +1,6 @@
 Hey there 👋
 
-# I'm [Dizzy](https://your-website-url.com)
+# I'm [Dizzy](https://redizzy.github.io)
 
 ## A Mathematics Student at HFUT
 
@@ -10,4 +10,4 @@ Currently, I am focusing on strengthening my foundation in **data analysis, mach
 
 Outside of academics, I enjoy playing **Go (Weiqi)** and **basketball**, which help me stay focused and balanced.
 
-If you would like to get in touch, feel free to [email me](mailto:your_email@example.com).
+If you would like to get in touch, feel free to [email me](mailto:zhiyuan.dizzy@outlook.com).
