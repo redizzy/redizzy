@@ -10,4 +10,4 @@ Currently, I am focusing on strengthening my foundation in **data analysis, mach
 
 Outside of academics, I enjoy playing **Go (Weiqi)** and **basketball**, which help me stay focused and balanced.
 
-If you would like to get in touch, feel free to **email me**.
+If you would like to get in touch, feel free to [email me](mailto:your_email@example.com).
